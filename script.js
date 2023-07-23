@@ -1,4 +1,3 @@
-// optional
 $('#blogCarousel').carousel({
-    interval: 100000
+  interval: 100000,
 });
